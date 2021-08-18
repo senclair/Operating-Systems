@@ -1,3 +1,6 @@
 A operating system boots up your device or computer.
 A operating system manages your memeory.
 A operating system powers down your device.
+A operating system manages programs. 
+A operating system estblishes internet connections.
+A operation system controls the network.
