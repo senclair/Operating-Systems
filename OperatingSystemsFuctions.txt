@@ -4,3 +4,6 @@ A operating system powers down your device.
 A operating system manages programs. 
 A operating system estblishes internet connections.
 A operation system controls the network.
+A operation system helps with providing a user interface.
+A operation System hepls with coordinating task.
+A operation system helps with configuring devices.
